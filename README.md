@@ -1,4 +1,4 @@
-# Are Data-driven Explanations Robust against Out-of-distribution Data?
+# Are Data-driven Explanations Robust against Out-of-distribution Data? (This repo reproduces the work of DRE, please refer to the original paper below)
 [[Paper](https://arxiv.org/pdf/2303.16390.pdf)] [[Code](https://github.com/tangli-udel/DRE)] [[Video](https://www.youtube.com/watch?v=4-8zMdB83x8)] [[Deep-REAL Lab](https://deep-real.github.io/)]
 
 This repository holds the Pytorch implementation of **Distributionally Robust Explanations (DRE)** in [Are Data-driven Explanations Robust against Out-of-distribution Data?](https://arxiv.org/pdf/2303.16390.pdf) by Tang Li, Fengchun Qiao, Mengmeng Ma, and Xi Peng.
